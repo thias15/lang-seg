@@ -102,7 +102,7 @@ terminado==0.12.1
 testpath==0.5.0
 timm==0.4.12
 torch==1.9.1
-torch-encoding
+torch-encoding @ git+https://github.com/zhanghang1989/PyTorch-Encoding/
 torchaudio==0.9.1
 torchmetrics==0.5.1
 torchvision==0.10.1
